@@ -9,3 +9,5 @@ Each notebook is for each part of the project.
 Many notebooks are no longer used since they are only used to learn about the structure of the data in the beginning - but they may still be accessed for some information.
 
 Update : DONE!
+
+New Update : NOT DONE - Found error in the code T.T
