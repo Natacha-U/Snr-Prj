@@ -11,3 +11,5 @@ Many notebooks are no longer used since they are only used to learn about the st
 Update : DONE!
 
 New Update : NOT DONE - Found error in the code T.T
+
+Newest update : Fixed :)
